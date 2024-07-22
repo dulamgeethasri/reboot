@@ -1,0 +1,72 @@
+customerid,name,accountnumber,accounttype,balance,currency,phonenumber,email,address,city,country,datetime
+C125,Emily Jones,456789123,Savings,20000.0,USD,345-678-9012,emily.jones@example.com,789 Pine Street,Metropolis,USA,2024-07-22 13:05:02.888289
+bfe46be1-af86-4a87-96f0-8fa69555c30c,Stephen Smith,364547941,Savings,15208.0,MVR,001-945-201-7397x11792,rogersjames@example.org,36879 Alan Lane,Santosport,Ireland,2024-07-22 13:05:29.016747
+47bf7688-18b8-436a-83e8-a63aab762f48,Laura Peterson,775805389,Savings,62652.0,MOP,663.596.9405x438,xrobinson@example.net,975 Cole Valleys Apt. 496,Calderonborough,Guyana,2024-07-22 13:05:29.018751
+887eb28c-fcf3-4a70-ab3f-f2debfc37443,Lauren Brown,848959102,Checking,33973.0,MUR,001-259-240-0563x11895,kellygreer@example.net,9632 Melton Glens,Lindaborough,Micronesia,2024-07-22 13:05:29.019748
+ea0f35b0-3329-4ca7-a14a-147ce4fd31c4,Paige Strong,729962973,Savings,1748.0,MGA,759.661.0433x42651,powens@example.net,5962 Whitney Mission,Zacharyfurt,Bosnia and Herzegovina,2024-07-22 13:05:29.019748
+1ad92431-2dfd-4f70-8f16-ad2cb87015ce,Lisa Lloyd,724336874,Checking,32458.0,ARS,9608098119,sbarber@example.com,19109 Rhodes Mission,Lake Grace,Venezuela,2024-07-22 13:05:29.020914
+484a6709-6cc2-4976-935a-bda6f0bfddb8,Sharon Coleman,893649675,Checking,36979.0,DJF,+1-996-315-4209x8301,solomonmitchell@example.net,23217 Cordova Forge,North Emily,Bermuda,2024-07-22 13:05:29.021750
+0bd5ce94-104d-4b32-b725-31b0775b3172,Sabrina Lee,820350048,Savings,36286.0,DOP,(361)678-4377,torresdylan@example.org,593 Shannon Ville Apt. 805,Erinbury,Guinea,2024-07-22 13:05:29.022750
+b07efdfc-637a-43be-99d0-1816319c9e77,Lance Pearson,394718254,Checking,11208.0,USD,001-369-326-2834x20418,traceytaylor@example.com,5138 Courtney Terrace,Austinborough,Cote d'Ivoire,2024-07-22 13:05:29.023862
+c05d88db-e540-4bd3-94c3-61217d2f28c3,Theresa Flores,473775212,Checking,11531.0,KMF,+1-793-955-7892,david56@example.net,759 Medina Crescent,North Charles,Tanzania,2024-07-22 13:05:29.023862
+2ebe7179-232b-44b3-9274-d9e48b9feae0,Mr. George Foster PhD,465631446,Checking,16154.0,NIS,001-330-422-6229x94379,umyers@example.org,125 Judy Knolls,Fitzgeraldberg,Algeria,2024-07-22 13:05:29.024750
+536838bf-5da4-42c7-8ee4-05e1be39e668,Rhonda Jenkins,723832633,Checking,1583.0,MGA,+1-638-679-7596,rachelkennedy@example.com,8013 Cross Village Apt. 610,East Saramouth,Cocos (Keeling) Islands,2024-07-22 13:05:29.025724
+23165703-6e82-480e-a14f-e1c52773598e,Cody Cole,828202639,Checking,3136.0,ETB,937-268-7728x060,ddavis@example.com,694 Brown Flats,New Cynthia,Guatemala,2024-07-22 13:05:29.026746
+e93a30de-da48-45f2-9d68-a3562d1a0c6d,Olivia Wagner,608160476,Checking,99976.0,HKD,(646)289-8031,stephengoodman@example.net,362 Jon Mountain Suite 022,Luisstad,Canada,2024-07-22 13:05:29.027751
+feb7118c-3f81-4a63-b858-b20695de288a,Tony Russell,614463975,Savings,16222.0,SDG,224-704-2164x77950,kellyjohnson@example.net,9139 Ramos Haven,New Jason,Holy See (Vatican City State),2024-07-22 13:05:29.027751
+c7645a4a-bf11-4d69-959c-39b071745e4f,Natalie Hughes,64382556,Checking,89543.0,ILS,+1-288-947-7513x1091,mccoymichele@example.net,01476 Jamie Walk Suite 451,North Roy,Algeria,2024-07-22 13:05:29.028749
+9e5c7a91-d90b-480d-a806-00806f4ab133,Lisa Watson,685357982,Savings,68480.0,BAM,(931)797-4404,tamiromero@example.com,03707 Jason Springs Suite 556,Hamiltonmouth,Norfolk Island,2024-07-22 13:05:29.029749
+54d272f8-d027-430a-86db-83e762fee5bb,Christopher Lane,246715931,Checking,98809.0,BIF,001-774-502-2276x15551,smithdanielle@example.com,49083 Jacob Circles,East Jenniferbury,Puerto Rico,2024-07-22 13:05:29.030748
+479c48d9-fb20-4f10-9474-8e4b5f58eb41,Janet Bailey,46171500,Savings,17640.0,SVC,+1-402-592-6232x678,christian79@example.org,2329 Sims Manor Apt. 354,Stonetown,Algeria,2024-07-22 13:05:29.031031
+6f99981b-fd1f-4e78-8fb6-f446afcd1a0f,Christopher Olson,550123913,Savings,68483.0,AED,596.568.1153x76285,usmith@example.com,867 John Islands Apt. 463,Graytown,Antigua and Barbuda,2024-07-22 13:05:29.031749
+ef8d4b29-1c1b-41f7-ab86-0cf871681491,Sarah Hunt,709723119,Savings,50034.0,NGN,+1-979-272-5585x14363,nicholas41@example.net,6463 Jackson Ville,Port Davidport,Chile,2024-07-22 13:05:29.032749
+16730efa-e874-43b7-a4e0-a26be2819fcf,Kimberly Mueller,982233077,Checking,99514.0,AOA,+1-767-678-2498x95968,curtis32@example.net,6627 Jamie Unions,Roberttown,Somalia,2024-07-22 13:05:29.033749
+7f5b6744-15da-4d85-aaa5-4945d5b358d5,Michele Hudson,13762025,Savings,12448.0,LTL,+1-960-738-3054,ojefferson@example.org,063 Zavala Course,New Brianfort,Svalbard & Jan Mayen Islands,2024-07-22 13:05:29.033749
+ef8583fe-1a57-4c15-8d30-40966a5590ee,Cynthia Baker,540995878,Checking,1916.0,BOB,(652)257-6890x406,marydurham@example.com,59734 Allison Isle Suite 281,North Michael,Solomon Islands,2024-07-22 13:05:29.034720
+4c3968e2-e7e6-4de7-839e-3ff21c896ab4,Steven Grant,237256387,Savings,97998.0,CUC,494.670.2407x38406,mclaughlinrachel@example.net,40413 Rodriguez Knoll,East Donnabury,Moldova,2024-07-22 13:05:29.035746
+f7530269-9b47-437b-9f3b-31c910958da0,Sara Wilson,252604639,Savings,9029.0,ANG,476-274-9327x9086,grace73@example.org,461 Mcgrath Inlet Apt. 446,East Melissa,Australia,2024-07-22 13:05:29.035746
+c5a4fa0a-d050-40de-8a0d-ec9b46cb1bda,Peter Haas,904293383,Savings,63976.0,SGD,483-858-7645x80303,wharris@example.com,958 Wilcox Lane,Angelaview,Belgium,2024-07-22 13:05:29.036938
+262dbe4f-37a1-486a-8fa5-8fc0420f94bd,Mrs. Heather James,624027608,Checking,60509.0,NAD,5013575904,schneidercheryl@example.org,915 Thompson Mill Apt. 718,Chasechester,Mexico,2024-07-22 13:05:29.037751
+c549bf0f-b7f4-4d3e-b06a-e877752cc5f1,Carmen Newton,43718004,Checking,24583.0,KHR,774.938.1692x216,dicksondaniel@example.com,217 Kimberly View Apt. 260,New Jessicabury,Romania,2024-07-22 13:05:29.038750
+3f89242c-66de-4954-82c4-ee886a4df75d,Kathryn Mann,439196085,Savings,5106.0,DZD,+1-485-573-0511x89046,alicia12@example.org,28935 Natalie Hill Suite 984,North Suzanneport,Ethiopia,2024-07-22 13:05:29.039715
+808bf7e8-2f90-4f83-bd6f-1a00e3ebe548,Janet Meyer,249400092,Savings,7341.0,BHD,(276)663-0904x06556,mnewman@example.org,30778 Jason Rue,Lake Joshua,Sierra Leone,2024-07-22 13:05:29.039715
+d477662e-c4ff-4896-b119-208c75cb0ee7,Jill Tate,295264956,Checking,59151.0,BZD,(974)799-3743,reyescody@example.org,0675 Sandy Parkway,New Joshua,Rwanda,2024-07-22 13:05:29.040871
+0bb2d2e1-89e7-44ab-b4e5-f0ff87a9499a,Joshua Crosby,164844421,Savings,97002.0,CAD,(300)906-4725,rdavis@example.org,76564 Baker Forks Suite 634,Charlesmouth,Taiwan,2024-07-22 13:05:29.041750
+41f9bf33-49cb-4dda-98ab-e621402f4ad5,Paul Robertson,84325003,Checking,73523.0,CVE,+1-950-724-3888,rosariocarlos@example.net,376 Hicks Prairie,North Gregoryport,Djibouti,2024-07-22 13:05:29.042746
+948ba6e2-d387-4c15-9657-9e97dd714558,Nathaniel Smith,376672324,Checking,76539.0,KGS,767.654.3202x02450,quinnrussell@example.org,929 Peters Plains,Michaelside,Saint Pierre and Miquelon,2024-07-22 13:05:29.042746
+0a5dab69-ed4b-4db4-b952-bc89c608ac19,Peggy Becker,862021185,Savings,43135.0,BWP,358.609.8851,herrerajustin@example.com,9884 Karen Tunnel Suite 722,Susanberg,Angola,2024-07-22 13:05:29.043753
+68d8e207-b35b-4c37-9c58-8c9a63b6f617,Thomas Shaw,783948566,Checking,36143.0,SAR,256-263-3009,amorales@example.com,0494 Crystal Ridges,South Joshua,Kuwait,2024-07-22 13:05:29.044746
+456591c8-0c07-49d8-9c92-d25ec687ff20,Erica Hernandez,180541086,Checking,31705.0,SOS,773-724-5082x61642,vbrown@example.com,3336 Hernandez Mills Suite 813,South Bradside,Burundi,2024-07-22 13:05:29.045751
+437d6935-98d9-43a5-9e86-882b57d5918e,Brenda Diaz,354957174,Savings,66823.0,XDR,561-445-4380,youngann@example.net,929 Marshall Vista Suite 332,New Terri,Bulgaria,2024-07-22 13:05:29.045947
+e34075da-944d-449f-a5e1-73c9900b76ff,Lisa Rowe,810857950,Savings,85946.0,DKK,001-932-389-6319x0832,brettmartin@example.com,0587 King Avenue Apt. 413,New Wendyborough,Luxembourg,2024-07-22 13:05:29.046904
+d7f7e7b4-3f19-4eb8-8b43-ed2dc197f19e,Paul Hernandez,107021199,Checking,419.0,ZAR,698-535-1185x5048,david61@example.net,8750 Turner Forges,Edwinhaven,Timor-Leste,2024-07-22 13:05:29.048904
+008281f0-351f-4d92-9f51-0f6140fe029f,Christina Cook,826038135,Checking,97942.0,KHR,+1-276-281-7521x4758,ljackson@example.org,8379 Gary Summit Suite 721,Goodmanberg,Cameroon,2024-07-22 13:05:29.049125
+b119d82f-a04c-4f9f-b816-0bacf680240a,Lori Moon,822543581,Savings,67667.0,PKR,804.217.7224x588,aguilarjoanna@example.net,1525 Matthew Estates Apt. 961,Alvaradoburgh,United Kingdom,2024-07-22 13:05:29.049902
+bdf29438-3878-4c80-a3fe-812f98c40272,Todd Preston,937438371,Savings,55154.0,SZL,+1-526-681-4163x62969,briannaherrera@example.net,615 Hall Manors,Christopherland,Guam,2024-07-22 13:05:29.050936
+209eecb9-99a2-4a8f-9f2d-62dfd622cfae,Andrea Hayden,751383750,Savings,68170.0,GIP,(732)880-2313,byrdchristopher@example.net,01615 Brandy Pass,Sullivanmouth,Faroe Islands,2024-07-22 13:05:29.051930
+d1181321-81f5-40d2-b1c6-88d4cf26ebfd,Marvin Warner,32085732,Checking,51889.0,GYD,+1-361-837-5075,howardalicia@example.net,34873 Juarez Flats,Amytown,Norfolk Island,2024-07-22 13:05:29.052930
+609ad9fb-147a-424f-bed5-94f2f3f38fb6,Stephanie Flores,183349188,Checking,12321.0,ZAR,+1-325-497-4125x135,watsonchristina@example.com,69585 Carl Greens Suite 416,Port Josephport,French Southern Territories,2024-07-22 13:05:29.053225
+7c7d9ca0-1b3f-47db-92c8-81e4a791c983,Ellen Mitchell,296911145,Checking,5815.0,ILS,8029006735,xchase@example.com,785 Courtney Circle Apt. 025,Danielville,Burkina Faso,2024-07-22 13:05:29.053938
+11a94597-54a4-471a-853f-735a60aff5f2,Eric Simpson,274627279,Savings,33973.0,CAD,+1-298-311-3050x0919,cassandra93@example.com,09034 Diaz Camp Suite 311,South Mauriceton,Somalia,2024-07-22 13:05:29.054963
+42667346-ffc2-4af0-8008-15e34fce394a,Vickie Banks,223573084,Savings,49257.0,TVD,+1-918-503-0147x501,courtney65@example.net,47442 Mills Road,Hunterport,Saint Pierre and Miquelon,2024-07-22 13:05:29.054963
+e0cc8a98-1547-4d22-84ff-b87c60156c01,Kathy Fernandez,246696174,Checking,83796.0,YER,001-948-531-2809,christina83@example.org,9080 Myers Valleys Suite 257,Port Jasonside,Isle of Man,2024-07-22 13:05:29.055930
+d1d98898-660d-4b1c-bdcb-22c18181d960,Christina Wilcox MD,183542448,Checking,16305.0,BAM,001-662-541-7658x593,christopher63@example.org,90484 Andrew Via,New Jason,China,2024-07-22 13:05:29.056904
+13540a04-21db-4311-bd2c-279fe4216b2e,Michele Flores,261867479,Checking,32326.0,HTG,(382)684-8677,johnmunoz@example.net,20895 Hall Ports Suite 642,Lake Alexander,Bolivia,2024-07-22 13:05:29.057937
+3977995a-1bfb-48de-9447-2c2e13dc0fac,John Gonzalez,993036216,Checking,69075.0,PLN,358-221-3606x10850,ebowers@example.org,2888 Shelby Brook Apt. 043,New Thomas,Samoa,2024-07-22 13:05:29.058941
+bf41048f-d686-4fc6-84ac-49d74054dccd,Justin Thompson,837471557,Savings,76614.0,LAK,345-262-3497x1363,sheila39@example.com,4271 Sullivan Burg,Lake William,Ghana,2024-07-22 13:05:29.058941
+03552012-18d6-4393-b89e-2c4f72990983,Miguel Cruz,881987807,Savings,86851.0,PGK,776.393.2863x0701,christopherrubio@example.com,605 Butler Villages Suite 018,Lake Michael,Kuwait,2024-07-22 13:05:29.059937
+b5c8d6d0-7a64-4197-ba0e-192914ef0f41,Edward Henderson,813741291,Checking,30842.0,QAR,(954)588-8689x338,ecarlson@example.net,24892 Amber Track,Jeanetteshire,Saint Kitts and Nevis,2024-07-22 13:05:29.060904
+1c1e6267-3fa8-4d1d-a525-88e47f69993c,Clarence Martin,962634183,Checking,80976.0,FKP,(911)864-7738x566,matthewclark@example.com,6452 Julia Street,East Thomaston,France,2024-07-22 13:05:29.061937
+7634a0d1-e2c7-4ce0-97ac-49708439901c,Lisa Morris,506676452,Checking,85734.0,TRY,957-516-6525,christophermartin@example.org,8548 Hoover Dale,East Brian,Yemen,2024-07-22 13:05:29.062944
+316cdec4-36bb-4e94-8e25-badf280156a6,Jeffrey Carroll,722982577,Checking,23958.0,BSD,603.986.5680x796,katherineflores@example.com,03801 Wells Summit Suite 996,North Maryshire,Saint Barthelemy,2024-07-22 13:05:29.062944
+c16d7a94-c971-49de-ba27-9948f16de2bd,Anita Griffin,47763048,Checking,88188.0,RON,707-880-4227,david07@example.com,0195 Adams Highway Suite 777,Port Robinchester,Greenland,2024-07-22 13:05:29.063938
+85dea43e-b663-40c2-b191-7fb27e50f6cc,Sophia Reynolds,744363996,Savings,61590.0,USD,903.405.0921x00530,christine60@example.org,7946 Manning Coves,Edwardton,Kuwait,2024-07-22 13:05:29.064944
+f249eb71-8b2d-4876-bee6-7c5280c0059c,James Rodriguez,61997949,Savings,16701.0,MKD,001-917-708-3006x58420,kelleymarcus@example.net,193 Peter Meadow,West Luisfort,Canada,2024-07-22 13:05:29.065941
+576ee25e-4cad-4b32-a2e1-f313972d60ac,Mark Guerrero,237037821,Savings,38057.0,RON,3933540837,teresa09@example.net,9882 Taylor Ports Suite 855,Randyton,Saint Pierre and Miquelon,2024-07-22 13:05:29.066193
+a1a8ebd5-cf19-4756-bd83-dabac3da955a,Maria Price MD,635890391,Checking,1501.0,CVE,+1-809-730-0504x4764,hallalexandria@example.net,4508 Scott Pines,Michaelbury,United States Minor Outlying Islands,2024-07-22 13:05:29.066958
+8e73a836-c4af-41c8-884c-5ed4af147bb8,David Harris,711515580,Savings,56147.0,MMK,569.693.9171,lonnieedwards@example.net,339 Nathaniel Islands,North Donna,Vanuatu,2024-07-22 13:05:29.067944
+3de4ab07-9ec3-45d3-895e-279651150018,Benjamin Murphy,702293346,Checking,19049.0,LAK,236-579-0403x158,sarahcalderon@example.com,322 Ryan Mount,South Davidstad,Vanuatu,2024-07-22 13:05:29.068937
+06bc4958-ca23-44e4-934a-45a4c2c93d71,Daniel Irwin,313373230,Savings,11939.0,NAD,437.371.0070x98445,powelljohn@example.net,616 Marilyn Forest,Matthewbury,Isle of Man,2024-07-22 13:05:29.068937
+64aa8dda-c3ec-40ff-8b23-e5874b3777a8,James White,605145229,Savings,58527.0,ISK,429-375-4243x6521,nathaniel61@example.net,9400 Christopher Fall Apt. 411,Haroldfort,Dominica,2024-07-22 13:05:29.069939
+e5f40c65-c6e8-4a9e-a1e3-b9d107a100fb,Ashley Baker,524242331,Savings,8783.0,ERN,(437)804-2568,youngjulie@example.com,81291 James Garden,New Matthewton,Netherlands Antilles,2024-07-22 13:05:29.070903
+d4ad8633-d85d-40b5-a3d7-848d545347d2,Ellen George,706703302,Savings,89082.0,ANG,625.953.6885x66047,stephen10@example.net,7924 Young Way,Port Brianna,Mongolia,2024-07-22 13:05:29.071937
